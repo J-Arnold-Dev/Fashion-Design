@@ -1,0 +1,281 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 110px;
+    width: 100%;
+    padding: 0px 100px;
+}
+.plain-one{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(19, 150, 106);
+    background-size: contain;
+}
+.contact-one{
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.contact-two{
+    float: right;
+    width: 45%;
+    height: auto;
+}
+.plain-one li{
+    list-style: none;
+    display: inline;
+    color: #ffff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+
+
+
+.plain-two{
+    width: 100%;
+    height: 90px;
+    padding: 0px 100px;
+    background-color: rgb(250, 249, 249);
+    background-size: contain;
+}
+.plain-two h3{
+    float: left;
+    font-size: 26px;
+    font-weight: 800;
+    width: 18%;
+    height: auto;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.plain-two nav{
+    float: right;
+    width: 76%;
+    height: auto;
+    font-size: 23px;
+}
+.plain-two .cat{
+    height: auto;
+    margin-left: 195px;   
+}
+.green{
+    color: rgb(19, 150, 106);
+}
+.ash{
+    color: rgb(100, 100, 100);
+}
+.green-two{
+    color: rgb(19, 150, 106);
+}
+.plain-two li{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 14px;
+}
+
+
+.plain-three{
+    background-image: url(./Pictures2/backdd1.jpg);
+    background-size: 100%;
+    width: 100%;
+    height: 800px;
+}
+.capture{
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.959);
+    padding-top: 300px;
+}
+.capture .andgreen{
+    color: rgb(19, 150, 106);
+}
+.capture .bayern{
+    margin-top: 2px;
+}
+.bayern .buybuy{
+    color: #ffff;
+    border-color: rgb(19, 150, 106);
+    background-color: transparent;
+    border-radius: 4px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    padding: 5px 25px;
+    border-style: solid;
+    border-width: medium;  
+}
+.plain-four{
+    width: 100%;
+    height: 320px;
+    padding: 30px 100px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.plain-four .setting{
+    width: 25%;
+    float: left;
+    padding: 0px 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.plain-four .money{
+    width: 25%;
+    float: left;
+    padding: 0px 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.plain-four .shipping{
+    width: 25%;
+    float: left;
+    padding: 0px 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.plain-four .support{
+    width: 25%;
+    text-align: center;
+    float: left;
+    padding: 0px 10px;
+    font-size: 15px;
+}
+.plain-five{
+    width: 100%;
+    height: 720px;
+    padding: 0px 50px;
+    background-color: rgb(227, 239, 243);
+}
+.plain-five h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 60px;
+    color: rgb(65, 65, 65);
+}
+.plain-five .series{
+    text-align: center;
+}
+.plain-five .gripps{
+    color: rgb(19, 150, 106);
+}
+.plain-five .clothimages{
+    padding-top: 20px;
+}
+.plain-five .lion{
+    float: left;
+    padding: 0px 5px;
+}
+.plain-five .lioness{
+    float: left;
+    padding: 0px 5px;
+}
+.plain-five .tiger{
+    float: left;
+    padding: 0px 5px;
+}
+.plain-five .tigress{
+    float: left;
+    padding: 0px 5px;
+}
+.marcelo .base1{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    color: #ffff;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 1px;
+}
+.marcelo .cash1{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(156, 154, 154);
+    color: #ffff;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    margin-left: -5px;
+    border-radius: 1px;
+}
+.ramos .base1{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    color: #ffff;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 1px;
+}
+.ramos .cash1{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(156, 154, 154);
+    color: #ffff;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    margin-left: -5px;
+    border-radius: 1px;
+}
+.varane .base1{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    color: #ffff;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 1px;
+}
+.varane .cash1{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(156, 154, 154);
+    color: #ffff;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    margin-left: -5px;
+    border-radius: 1px;
+}
+.carvajal .base1{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    color: #ffff;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 1px;
+}
+.carvajal .cash1{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(156, 154, 154);
+    color: #ffff;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    margin-left: -5px;
+    border-radius: 1px;
+}
